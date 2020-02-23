@@ -1,0 +1,2 @@
+# permuteWords
+nPr word strings
